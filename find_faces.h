@@ -1,0 +1,8 @@
+#ifndef PICATTENDANCEPHPEXTENSION_FIND_FACES_H
+#define PICATTENDANCEPHPEXTENSION_FIND_FACES_H
+
+#include "phpcpp.h"
+
+Php::Value FindFaces(Php::Parameters& parameters);
+
+#endif // PICATTENDANCEPHPEXTENSION_FIND_FACES_H

@@ -1,0 +1,9 @@
+#ifndef PICATTENDANCEPHPEXTENSION_RECOGNIZE_FACES_H
+#define PICATTENDANCEPHPEXTENSION_RECOGNIZE_FACES_H
+
+#include "phpcpp.h"
+
+Php::Value RecognizeFaces(Php::Parameters& parameters);
+
+#endif // PICATTENDANCEPHPEXTENSION_RECOGNIZE_FACES_H
+
